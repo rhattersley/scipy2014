@@ -1,3 +1,7 @@
 span.variable {
     color: inherit;
 }
+
+div.output_stderr {
+    display: none;
+}
